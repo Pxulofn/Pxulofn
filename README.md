@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ff0000&color:FFF)](mailto:paulovictorsouzalins@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff0000&color:FFF)](https://www.linkedin.com/in/pedro-vi%C3%ADcius-45269031a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ff0000&color:FFF)](https://www.linkedin.com/in/paulo-victor-souza-lins-2399a6319/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff0000&color:FFF)](https://www.instagram.com/Pxulofn/)
 
 
