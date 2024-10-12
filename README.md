@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Sou estudante de Análise e Desenvolvimento de Software na Faculdade (nome) de Brasília e busco constantemente me aprimorar e enfrentar novos desafios no setor de tecnologia. Tenho grande interesse em adquirir novos conhecimentos e aplicá-los na criação de soluções inovadoras. Estou disponível para propostas de emprego e aberto a novas oportunidades na área.
+<p align="center">Sou estudante de Análise e Desenvolvimento de Software na Faculdade UNICEUB de Brasília e busco constantemente me aprimorar e enfrentar novos desafios no setor de tecnologia. Tenho grande interesse em adquirir novos conhecimentos e aplicá-los na criação de soluções inovadoras. Estou disponível para propostas de emprego e aberto a novas oportunidades na área.
   
 #
 
